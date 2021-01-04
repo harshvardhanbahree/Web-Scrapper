@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Jars/activation.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/mail.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
